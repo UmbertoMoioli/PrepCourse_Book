@@ -1,0 +1,1 @@
+Saluti = {formale: "salve", informale: "ciao", mattina: "buongiorno", sera: "buonasera"}
